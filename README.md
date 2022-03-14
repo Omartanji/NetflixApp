@@ -9,4 +9,4 @@ The different components of the project:
 
 - The project’s main class: The NetflixApp main class is for creating objects of the different classes. It also interacts with the user by inputting different shows and their information and outputting the list of shows back to the user.
 
--It also contains the different main classes of the project alongside classes for exception handling and others to manage the collections of objects needed by the system using the collections framework.
+- It also contains the different main classes of the project alongside classes for exception handling and others to manage the collections of objects needed by the system using the collections framework.
